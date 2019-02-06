@@ -24,7 +24,7 @@ Your return array would be [1,1] with Alice's score first and Bob's second.
 
 #### Function Description
 
-Complete the function compareTriplets in the editor below. 
+Complete the function compareTriplets. 
 It must return an array of two integers, the first being Alice's score and the second being Bob's.
 
 compareTriplets has the following parameter(s):

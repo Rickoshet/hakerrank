@@ -13,8 +13,8 @@ The next line contains  space-separated integers contained in the array.
 #### Output Format
 Print the integer sum of the elements in the array.
 #### Constraints 
-  * 1 <= n <= 10
-  * 0 <= ar[i] <= 10^10
+  * 1 ≤ n ≤ 10
+  * 0 ≤ ar[i] ≤ 10^10
 #### Sample Input
 ```json
 5

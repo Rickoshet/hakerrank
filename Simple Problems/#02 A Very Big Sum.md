@@ -29,7 +29,7 @@ The range of the 32-bit integer is (-2^31)to(2^31 - 1) or [-2147483648, 21474836
 When we add several integer values, the resulting sum might exceed the above range. 
 You might need to use long long int in C/C++ or long data type in Java to store such sums.
 ### Solution 
-```json
+```py
 n = int(input())
 ar = list(map(int, input().strip().split()))
     

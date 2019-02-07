@@ -21,7 +21,7 @@ Given *N*, *Q*, and *Q* queries, execute each query.
 **Note:** ⊕ is the bitwise XOR operation, which corresponds to the ^ operator in most languages. 
 Learn more about it on [Wikipedia](https://en.wikipedia.org/wiki/Exclusive_or 'Exclusive or
 ').
-####Input Format
+#### Input Format
 The first line contains two space-separated integers, *N* (the number of sequences) and *Q* (the number of queries), respectively. 
 Each of the *Q* subsequent lines contains a query in the format defined above.
 #### Constraints

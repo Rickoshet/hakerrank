@@ -43,7 +43,7 @@ Let's refer to the array's final state as array *b* = [2,3,1]. For each query, w
   2. *m* = 1, *b(1)* = 3.
   3. *m* = 2, *b(2)* = 1.
 ### Solution 
-```json
+```py
 N, K, Q = list(map(int, input().strip().split()))
 A = list(map(int, input().strip().split()))
 result = []

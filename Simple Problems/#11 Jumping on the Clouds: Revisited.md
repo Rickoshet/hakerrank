@@ -58,7 +58,7 @@ Observe that our thunderheads are the clouds numbered , , and . Aerith makes the
   3. Move: 4 → 6, Energy: *e* = 96 - 1 - 2 = 93
   4. Move: 6 → 0, Energy: *e* = 93 - 1 = 92
 ### Solution
-```json
+```py
 n, k  = map(int, input().strip().split())
 clouds = list(map(int, input().strip().split()))
 print(100 - sum(1 + 2 * clouds[i] for i in range(0, n, k)))

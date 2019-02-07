@@ -53,7 +53,7 @@ Difference: |4 - 19| = 15
 
 Note: |x| is the absolute value of x
 ### Solution
-```json
+```py
 arr = []
 n = int(input())
 sum1 = 0

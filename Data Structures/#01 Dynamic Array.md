@@ -82,7 +82,7 @@ Query 3: Assign the value at index 1 of sequence ( ( 1 ⊕ 7 ) % 2 ) = 0 to *las
 3
 ```
 ### Solution
-```json
+```py
 def dynamicArray(n, queries):
     lastNumber = 0
     seqList=[];

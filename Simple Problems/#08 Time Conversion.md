@@ -27,7 +27,7 @@ Convert and print the given time in 24-hour format, where 00 ≤ *hh* ≤ 23.
 19:05:45
 ```
 ### Solution 
-```json
+```py
 from datetime import datetime
 t = input()
 

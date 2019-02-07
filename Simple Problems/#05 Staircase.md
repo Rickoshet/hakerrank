@@ -41,7 +41,7 @@ Note: The last line must have 0 spaces in it.
 #### Explanation                                                                    
 The staircase is right-aligned, composed of # symbols and spaces, and has a height and width of n = 6.
 ### Solution 
-```json
+```py
 n = int(input())
 for i in range(n):
     print(" "*(n-i-1)+"#"*(i+1))

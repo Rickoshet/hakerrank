@@ -34,7 +34,7 @@ We have one candle of height 1, one candle of height 2, and two candles of heigh
 Your niece only blows out the tallest candles, meaning the candles where *height* = 3. 
 Because there are 2 such candles, we print 2 on a new line.
 ### Solution 
-```json
+```py
 n = input()
 arr = input().split()
 Max, count = 0, 0

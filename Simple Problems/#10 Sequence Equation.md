@@ -56,7 +56,7 @@ Given the values of *p*(1) = 2, *p*(2) = 3, and *p*(3) = 1, we calculate and pri
 2
 ```
 ### Solution 
-```json
+```py
 n = int(input().strip())
 p = list(map(int, input().strip().split()))
 for i in range(1, n+1):

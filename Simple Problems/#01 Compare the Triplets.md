@@ -82,7 +82,7 @@ Comparing the 1st and 2nd elements, 28>16 and 30>8 so Alice receives two points.
 The return array is [2,1].
 
 ### Solution:
-```json
+```py
 a = list(map(int, input().strip().split()))
 b = list(map(int, input().strip().split()))
 Alice = 0

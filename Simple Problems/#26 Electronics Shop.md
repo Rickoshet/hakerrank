@@ -55,7 +55,7 @@ She can buy the 2nd keyboard and the 3rd USB drive for a total cost of 8 + 1 = 9
 #### Explanation 1
 There is no way to buy one keyboard and one USB drive because 4 + 5 > 5, so we print -1.
 ### Solution
-```json
+```py
 from itertools import product
 
 def spent(K, D, b):

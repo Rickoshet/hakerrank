@@ -39,7 +39,7 @@ Our initial numbers are 1, 2, 3, 4, and 5. We can calculate the following sums u
   4. If we sum everything except 4, our sum is 1 + 2 + 3 + 5 = 11.
   5. If we sum everything except 5, our sum is 1 + 2 + 3 + 4 = 10.
 ### Solution 
-```json
+```py
 arr = list(map(int, input().strip().split(' ')))
 max=-sys.maxsize-1
 min=sys.maxsize

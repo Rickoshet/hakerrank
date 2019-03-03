@@ -1,2 +1,2 @@
 # hakerrank
-Here Im solving hakerrank problems using python 3.0
+Here Im solving hakerrank problems using python 3
